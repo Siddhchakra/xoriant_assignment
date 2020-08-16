@@ -1,0 +1,10 @@
+$dafault_background: rgb(223, 209, 209);
+
+body {
+  background-color: $dafault_background;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
